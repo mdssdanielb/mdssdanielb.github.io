@@ -17,7 +17,7 @@ function factA(){
 	document.getElementById('factDisplay').style.backgroundColor="#4A8FE7";
 	document.getElementById('factDisplay').style.borderColor="#73FBD3";
 	document.getElementById('factDisplay').style.backgroundImage="url('images/fish.jpg')";
-	document.getElementById('factDisplay').style.backgroundSize="750px";
+	document.getElementById('factDisplay').style.backgroundSize="800px";
 	document.getElementById('factDisplay').style.fontSize="20px";
 	document.getElementById('factDisplay').style.fontFamily="Comic Sans MS";
 }
@@ -33,7 +33,7 @@ function factB(){
 	document.getElementById('factDisplay').style.borderColor="#D3AC4A";
 	document.getElementById('factDisplay').style.backgroundColor="#D5C534";
 	document.getElementById('factDisplay').style.backgroundImage="url('images/rock.jpg')";
-	document.getElementById('factDisplay').style.backgroundSize="750px";
+	document.getElementById('factDisplay').style.backgroundSize="800px";
 	document.getElementById('factDisplay').style.fontSize="25px";
 	document.getElementById('factDisplay').style.fontFamily="Comic Sans MS";
 }
@@ -49,7 +49,7 @@ function factC(){
 	document.getElementById('factDisplay').style.borderColor="#5FFB17";
 	document.getElementById('factarea').style.borderColor="ForestGreen";
 		document.getElementById('factDisplay').style.backgroundImage="url('images/snake.jpg')";
-	document.getElementById('factDisplay').style.backgroundSize="730px";
+	document.getElementById('factDisplay').style.backgroundSize="800px";
 	document.getElementById('factDisplay').style.fontSize="25px";
 	document.getElementById('factDisplay').style.fontFamily="Comic Sans MS";
 }
@@ -65,7 +65,7 @@ function factD(){
 	document.getElementById('factDisplay').style.borderColor="#7F38EC";
 	document.getElementById('factarea').style.borderColor="Fuchsia";
 	document.getElementById('factDisplay').style.backgroundImage="url('images/flower.jpg')";
-	document.getElementById('factDisplay').style.backgroundSize="750px";
+	document.getElementById('factDisplay').style.backgroundSize="800px";
 	document.getElementById('factDisplay').style.fontSize="25px";
 	document.getElementById('factDisplay').style.fontFamily="Comic Sans MS";
 }
@@ -81,7 +81,7 @@ function factE(){
 	document.getElementById('factDisplay').style.borderColor="aqua";
 	document.getElementById('factarea').style.borderColor="aqua";
 	document.getElementById('factDisplay').style.backgroundImage="url('images/moon.jpg')";
-	document.getElementById('factDisplay').style.backgroundSize="700px";
+	document.getElementById('factDisplay').style.backgroundSize="800px";
 	document.getElementById('factDisplay').style.fontFamily="Comic Sans MS";
 	
 	document.getElementById('factDisplay').style.fontSize="25px";

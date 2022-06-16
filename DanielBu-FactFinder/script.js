@@ -66,7 +66,7 @@ function factD(){
 	document.getElementById('factarea').style.borderColor="Fuchsia";
 	document.getElementById('factDisplay').style.backgroundImage="url('images/flower.jpg')";
 	document.getElementById('factDisplay').style.backgroundSize="800px";
-	document.getElementById('factDisplay').style.fontSize="25px";
+	document.getElementById('factDisplay').style.fontSize="20px";
 	document.getElementById('factDisplay').style.fontFamily="Comic Sans MS";
 }
 

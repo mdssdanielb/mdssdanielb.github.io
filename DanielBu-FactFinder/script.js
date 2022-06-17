@@ -2,7 +2,7 @@ document.getElementById('factDisplay').innerHTML="Facts will display here.";
 
 var fact1 = "About 94 percent of the earth’s wildlife is found in the ocean.";
 var fact2 = "Earth is a terrestrial planet.";
-var fact3 = "A snail can sleep for three years.";
+var fact3 = "Canada is home to the largest known snake gathering in the world.";
 var fact4 = "Some plants such as orchids do not need soil to grow-they get all of their nutrients from the air.";
 var fact5 = "When the moon is directly overhead, you will weigh slightly less.";
 
